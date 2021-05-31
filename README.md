@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-[![Linkedin Badge](https://img.shields.io/badge/-Peniel%20Zannoukou-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peniel-etèmana-d-j-zannoukou-28633a213/)](https://www.linkedin.com/in/peniel-etèmana-d-j-zannoukou-28633a213www.linkedin.com/in/diego-schell-fernandes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Peniel%20Zannoukou-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peniel-etèmana-d-j-zannoukou-28633a213/)](https://www.linkedin.com/in/peniel-etèmana-d-j-zannoukou-28633a213/) 
 [![Gmail Badge](https://img.shields.io/badge/-zpeniel09@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zpeniel09@gmail.com)](mailto:zpeniel09@gmail.com)

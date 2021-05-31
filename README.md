@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## I'm PENIEL ZANNOUKOU
-
+- 🌱 I’m currently learning about  new programmation language
+- 👯 I’m looking to collaborate on new project
 <!--
 **zpeniel09/zpeniel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
